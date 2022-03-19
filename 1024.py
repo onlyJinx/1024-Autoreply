@@ -4,7 +4,7 @@ import random
 import onetimepass as otp
 from time import sleep
 import os
-from getver1 import Getver
+from getver import Getver
 from multiprocessing import Pool
 from config import config
 
